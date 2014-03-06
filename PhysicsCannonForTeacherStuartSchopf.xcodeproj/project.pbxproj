@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1652FCC818233C1F0060DFA7 /* JacobsCannon3Wheels.png in Resources */ = {isa = PBXBuildFile; fileRef = 1652FCC718233C1F0060DFA7 /* JacobsCannon3Wheels.png */; };
+		1652FCCA18233C300060DFA7 /* CannonFrontWheel.png in Resources */ = {isa = PBXBuildFile; fileRef = 1652FCC918233C300060DFA7 /* CannonFrontWheel.png */; };
+		1652FCCC18233F850060DFA7 /* CannonBall.png in Resources */ = {isa = PBXBuildFile; fileRef = 1652FCCB18233F850060DFA7 /* CannonBall.png */; };
+		1679466A1825BAB70029928B /* JacobsCannonYellowPaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 167946691825BAB70029928B /* JacobsCannonYellowPaper.png */; };
+		167946B21825BFB30029928B /* AngleValues.plist in Resources */ = {isa = PBXBuildFile; fileRef = 167946B11825BFB30029928B /* AngleValues.plist */; };
 		169ED0AA1822FB3E00241082 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169ED0A91822FB3E00241082 /* Foundation.framework */; };
 		169ED0AC1822FB3E00241082 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169ED0AB1822FB3E00241082 /* CoreGraphics.framework */; };
 		169ED0AE1822FB3E00241082 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169ED0AD1822FB3E00241082 /* UIKit.framework */; };
@@ -25,6 +30,24 @@
 		169ED0D51822FB3F00241082 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169ED0AD1822FB3E00241082 /* UIKit.framework */; };
 		169ED0DD1822FB3F00241082 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 169ED0DB1822FB3F00241082 /* InfoPlist.strings */; };
 		169ED0DF1822FB3F00241082 /* PhysicsCannonForTeacherStuartSchopfTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 169ED0DE1822FB3F00241082 /* PhysicsCannonForTeacherStuartSchopfTests.m */; };
+		16BBE0211829756600A1D905 /* SMCLove.m in Sources */ = {isa = PBXBuildFile; fileRef = 16BBE01D1829756600A1D905 /* SMCLove.m */; };
+		16BBE0221829756600A1D905 /* SMRotaryWheel.m in Sources */ = {isa = PBXBuildFile; fileRef = 16BBE0201829756600A1D905 /* SMRotaryWheel.m */; };
+		16BBE0301829763500A1D905 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE0251829763500A1D905 /* bg.png */; };
+		16BBE0311829763500A1D905 /* centerButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE0261829763500A1D905 /* centerButton.png */; };
+		16BBE0321829763500A1D905 /* icon0.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE0271829763500A1D905 /* icon0.png */; };
+		16BBE0331829763500A1D905 /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE0281829763500A1D905 /* icon1.png */; };
+		16BBE0341829763500A1D905 /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE0291829763500A1D905 /* icon2.png */; };
+		16BBE0351829763500A1D905 /* icon3.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02A1829763500A1D905 /* icon3.png */; };
+		16BBE0361829763500A1D905 /* icon4.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02B1829763500A1D905 /* icon4.png */; };
+		16BBE0371829763500A1D905 /* icon5.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02C1829763500A1D905 /* icon5.png */; };
+		16BBE0381829763500A1D905 /* icon6.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02D1829763500A1D905 /* icon6.png */; };
+		16BBE0391829763500A1D905 /* icon7.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02E1829763500A1D905 /* icon7.png */; };
+		16BBE03A1829763500A1D905 /* segment.png in Resources */ = {isa = PBXBuildFile; fileRef = 16BBE02F1829763500A1D905 /* segment.png */; };
+		16EB5CBD182317CE00FA68C1 /* CannonBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 16EB5CBB182317CE00FA68C1 /* CannonBar.png */; };
+		16EB5CBE182317CE00FA68C1 /* JacobsCannonNoBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 16EB5CBC182317CE00FA68C1 /* JacobsCannonNoBar.png */; };
+		16EB5CC0182318E100FA68C1 /* BlueBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 16EB5CBF182318E100FA68C1 /* BlueBackground.png */; };
+		16EB5CC418231BE700FA68C1 /* secondHolderForCannon.png in Resources */ = {isa = PBXBuildFile; fileRef = 16EB5CC318231BE700FA68C1 /* secondHolderForCannon.png */; };
+		16EB5CC618231BFC00FA68C1 /* JacobsCannon2Sides.png in Resources */ = {isa = PBXBuildFile; fileRef = 16EB5CC518231BFC00FA68C1 /* JacobsCannon2Sides.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +61,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1652FCC718233C1F0060DFA7 /* JacobsCannon3Wheels.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JacobsCannon3Wheels.png; sourceTree = "<group>"; };
+		1652FCC918233C300060DFA7 /* CannonFrontWheel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CannonFrontWheel.png; sourceTree = "<group>"; };
+		1652FCCB18233F850060DFA7 /* CannonBall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CannonBall.png; sourceTree = "<group>"; };
+		167946691825BAB70029928B /* JacobsCannonYellowPaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JacobsCannonYellowPaper.png; sourceTree = "<group>"; };
+		167946B11825BFB30029928B /* AngleValues.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AngleValues.plist; sourceTree = "<group>"; };
 		169ED0A61822FB3E00241082 /* PhysicsCannonForTeacherStuartSchopf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhysicsCannonForTeacherStuartSchopf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		169ED0A91822FB3E00241082 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		169ED0AB1822FB3E00241082 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -62,6 +90,27 @@
 		169ED0DA1822FB3F00241082 /* PhysicsCannonForTeacherStuartSchopfTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PhysicsCannonForTeacherStuartSchopfTests-Info.plist"; sourceTree = "<group>"; };
 		169ED0DC1822FB3F00241082 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		169ED0DE1822FB3F00241082 /* PhysicsCannonForTeacherStuartSchopfTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhysicsCannonForTeacherStuartSchopfTests.m; sourceTree = "<group>"; };
+		16BBE01C1829756600A1D905 /* SMCLove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMCLove.h; sourceTree = "<group>"; };
+		16BBE01D1829756600A1D905 /* SMCLove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMCLove.m; sourceTree = "<group>"; };
+		16BBE01E1829756600A1D905 /* SMRotaryProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMRotaryProtocol.h; sourceTree = "<group>"; };
+		16BBE01F1829756600A1D905 /* SMRotaryWheel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMRotaryWheel.h; sourceTree = "<group>"; };
+		16BBE0201829756600A1D905 /* SMRotaryWheel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMRotaryWheel.m; sourceTree = "<group>"; };
+		16BBE0251829763500A1D905 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		16BBE0261829763500A1D905 /* centerButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = centerButton.png; sourceTree = "<group>"; };
+		16BBE0271829763500A1D905 /* icon0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon0.png; sourceTree = "<group>"; };
+		16BBE0281829763500A1D905 /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
+		16BBE0291829763500A1D905 /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
+		16BBE02A1829763500A1D905 /* icon3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon3.png; sourceTree = "<group>"; };
+		16BBE02B1829763500A1D905 /* icon4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon4.png; sourceTree = "<group>"; };
+		16BBE02C1829763500A1D905 /* icon5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon5.png; sourceTree = "<group>"; };
+		16BBE02D1829763500A1D905 /* icon6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon6.png; sourceTree = "<group>"; };
+		16BBE02E1829763500A1D905 /* icon7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon7.png; sourceTree = "<group>"; };
+		16BBE02F1829763500A1D905 /* segment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = segment.png; sourceTree = "<group>"; };
+		16EB5CBB182317CE00FA68C1 /* CannonBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CannonBar.png; sourceTree = "<group>"; };
+		16EB5CBC182317CE00FA68C1 /* JacobsCannonNoBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JacobsCannonNoBar.png; sourceTree = "<group>"; };
+		16EB5CBF182318E100FA68C1 /* BlueBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlueBackground.png; sourceTree = "<group>"; };
+		16EB5CC318231BE700FA68C1 /* secondHolderForCannon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = secondHolderForCannon.png; sourceTree = "<group>"; };
+		16EB5CC518231BFC00FA68C1 /* JacobsCannon2Sides.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JacobsCannon2Sides.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +172,17 @@
 		169ED0B11822FB3E00241082 /* PhysicsCannonForTeacherStuartSchopf */ = {
 			isa = PBXGroup;
 			children = (
+				16BBE0231829756A00A1D905 /* Rotating Wheel */,
+				167946B11825BFB30029928B /* AngleValues.plist */,
+				167946691825BAB70029928B /* JacobsCannonYellowPaper.png */,
+				1652FCCB18233F850060DFA7 /* CannonBall.png */,
+				16EB5CBF182318E100FA68C1 /* BlueBackground.png */,
+				16EB5CBB182317CE00FA68C1 /* CannonBar.png */,
+				16EB5CC318231BE700FA68C1 /* secondHolderForCannon.png */,
+				1652FCC718233C1F0060DFA7 /* JacobsCannon3Wheels.png */,
+				16EB5CC518231BFC00FA68C1 /* JacobsCannon2Sides.png */,
+				16EB5CBC182317CE00FA68C1 /* JacobsCannonNoBar.png */,
+				1652FCC918233C300060DFA7 /* CannonFrontWheel.png */,
 				169ED0BA1822FB3E00241082 /* AppDelegate.h */,
 				169ED0BB1822FB3E00241082 /* AppDelegate.m */,
 				169ED0BD1822FB3E00241082 /* Main_iPhone.storyboard */,
@@ -165,6 +225,37 @@
 				169ED0DB1822FB3F00241082 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		16BBE0231829756A00A1D905 /* Rotating Wheel */ = {
+			isa = PBXGroup;
+			children = (
+				16BBE0241829763500A1D905 /* assets */,
+				16BBE01C1829756600A1D905 /* SMCLove.h */,
+				16BBE01D1829756600A1D905 /* SMCLove.m */,
+				16BBE01E1829756600A1D905 /* SMRotaryProtocol.h */,
+				16BBE01F1829756600A1D905 /* SMRotaryWheel.h */,
+				16BBE0201829756600A1D905 /* SMRotaryWheel.m */,
+			);
+			name = "Rotating Wheel";
+			sourceTree = "<group>";
+		};
+		16BBE0241829763500A1D905 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				16BBE0251829763500A1D905 /* bg.png */,
+				16BBE0261829763500A1D905 /* centerButton.png */,
+				16BBE0271829763500A1D905 /* icon0.png */,
+				16BBE0281829763500A1D905 /* icon1.png */,
+				16BBE0291829763500A1D905 /* icon2.png */,
+				16BBE02A1829763500A1D905 /* icon3.png */,
+				16BBE02B1829763500A1D905 /* icon4.png */,
+				16BBE02C1829763500A1D905 /* icon5.png */,
+				16BBE02D1829763500A1D905 /* icon6.png */,
+				16BBE02E1829763500A1D905 /* icon7.png */,
+				16BBE02F1829763500A1D905 /* segment.png */,
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,11 +334,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16EB5CBE182317CE00FA68C1 /* JacobsCannonNoBar.png in Resources */,
+				1652FCCC18233F850060DFA7 /* CannonBall.png in Resources */,
+				16BBE0371829763500A1D905 /* icon5.png in Resources */,
+				16BBE0351829763500A1D905 /* icon3.png in Resources */,
+				16BBE0301829763500A1D905 /* bg.png in Resources */,
 				169ED0CA1822FB3E00241082 /* Spaceship.png in Resources */,
+				16BBE0361829763500A1D905 /* icon4.png in Resources */,
 				169ED0CC1822FB3E00241082 /* Images.xcassets in Resources */,
+				1652FCC818233C1F0060DFA7 /* JacobsCannon3Wheels.png in Resources */,
+				16BBE0311829763500A1D905 /* centerButton.png in Resources */,
 				169ED0C21822FB3E00241082 /* Main_iPad.storyboard in Resources */,
+				16BBE0381829763500A1D905 /* icon6.png in Resources */,
 				169ED0BF1822FB3E00241082 /* Main_iPhone.storyboard in Resources */,
+				167946B21825BFB30029928B /* AngleValues.plist in Resources */,
+				16EB5CC418231BE700FA68C1 /* secondHolderForCannon.png in Resources */,
+				16BBE03A1829763500A1D905 /* segment.png in Resources */,
+				16BBE0341829763500A1D905 /* icon2.png in Resources */,
+				16BBE0391829763500A1D905 /* icon7.png in Resources */,
+				16EB5CC0182318E100FA68C1 /* BlueBackground.png in Resources */,
+				16EB5CBD182317CE00FA68C1 /* CannonBar.png in Resources */,
+				16BBE0331829763500A1D905 /* icon1.png in Resources */,
+				16EB5CC618231BFC00FA68C1 /* JacobsCannon2Sides.png in Resources */,
+				1679466A1825BAB70029928B /* JacobsCannonYellowPaper.png in Resources */,
+				1652FCCA18233C300060DFA7 /* CannonFrontWheel.png in Resources */,
 				169ED0B61822FB3E00241082 /* InfoPlist.strings in Resources */,
+				16BBE0321829763500A1D905 /* icon0.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +378,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16BBE0221829756600A1D905 /* SMRotaryWheel.m in Sources */,
+				16BBE0211829756600A1D905 /* SMCLove.m in Sources */,
 				169ED0C81822FB3E00241082 /* MyScene.m in Sources */,
 				169ED0C51822FB3E00241082 /* ViewController.m in Sources */,
 				169ED0BC1822FB3E00241082 /* AppDelegate.m in Sources */,
@@ -406,10 +520,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PhysicsCannonForTeacherStuartSchopf/PhysicsCannonForTeacherStuartSchopf-Prefix.pch";
 				INFOPLIST_FILE = "PhysicsCannonForTeacherStuartSchopf/PhysicsCannonForTeacherStuartSchopf-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -420,10 +537,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PhysicsCannonForTeacherStuartSchopf/PhysicsCannonForTeacherStuartSchopf-Prefix.pch";
 				INFOPLIST_FILE = "PhysicsCannonForTeacherStuartSchopf/PhysicsCannonForTeacherStuartSchopf-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -490,6 +610,7 @@
 				169ED0E41822FB3F00241082 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		169ED0E51822FB3F00241082 /* Build configuration list for PBXNativeTarget "PhysicsCannonForTeacherStuartSchopfTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +619,7 @@
 				169ED0E71822FB3F00241082 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
