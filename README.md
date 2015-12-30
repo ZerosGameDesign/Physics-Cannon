@@ -8,6 +8,6 @@ Rotating wheel code by Cesare Rocchi - studiomagnolia.com
 
 
 Terms of use:
-If you use this code, make sure to provide attribution to the people/companies listed above under "Attributions" as well as mention Zeros Game Design.
+If you use this code, make sure to provide attribution to the people/companies listed above under "Attributions". Optionally, you may also mention Zeros Game Design but it is not required.
 
 Thank you & Enjoy!
